@@ -21,6 +21,6 @@ public class Main {
             System.out.println();
         }
 
-        System.out.println("Menu last updated: " + menu.getLastUpdated());
+        System.out.println("Menu last updated:" + menu.getLastUpdated());
     }
 }

@@ -15,7 +15,6 @@ public class MenuItem {
         this.category = category;
         this.dateAdded = dateAdded;
     }
-
     public String getItem() {
         return item;
     }

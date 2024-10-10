@@ -17,7 +17,6 @@ public class Menu {
         menuItems.add(item);
         this.lastUpdated = new Date();
     }
-
     public ArrayList<MenuItem> getMenuItems() {
         return menuItems;
     }
